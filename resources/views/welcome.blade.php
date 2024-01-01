@@ -8,6 +8,10 @@
                 <div>
                     <img src="./images/logo.jpg" alt="Logo" style="max-height: 100px; max-width: 200px; border-radius: 100%; height: 100px; width: 100px;">
                 </div>
+                <!-- Title -->
+                <div class="text-center"> <!-- Add text-center class -->
+                    <b><i><h1 style="font-weight: 800; color: aqua; font-size: 2.5rem;">Book Reviews</h1><i><b>
+                </div>
 
                 <!-- Authentication Links -->
                 <div class="flex items-center">
